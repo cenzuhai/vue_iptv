@@ -1,4 +1,4 @@
-# vuex
+# vue iptv epg
 
 ## Project setup
 ```
